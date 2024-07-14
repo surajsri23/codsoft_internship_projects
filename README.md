@@ -18,8 +18,8 @@ A simple command-line Todo List application to help you keep track of your tasks
 - Quit
 
 ### How to Run
-1. Navigate to the `Todo list` directory.
-2. Run `python Todo list.py`.
+1. Navigate to the `todo_list_task1` directory.
+2. Run `python todo_list_task1.py`.
 
 ## 2. Calculator
 
@@ -55,4 +55,4 @@ A secure password generator to create strong and random passwords.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/codsoft_internship_projects.git
+   git clone https://github.com/surajsri23/codsoft_internship_projects.git
